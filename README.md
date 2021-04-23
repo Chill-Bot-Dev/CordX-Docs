@@ -1,2 +1,2 @@
 # CordX-Docs
-Documentation for [CordX](https://cordx.lol) made using MKDocs
+Documentation for the [CordX](https://cordx.lol) website made using Python and MKDocs
